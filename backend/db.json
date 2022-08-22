@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta preta",
+      "price": 5.11
+    },
+    {
+      "id": 2,
+      "name": "caneta azul",
+      "price": 5.11
+    },
+    {
+      "id": 3,
+      "name": "caneta vermelha",
+      "price": 5.11
+    },
+    {
+      "id": 4,
+      "name": "lápis hb",
+      "price": 3.11
+    },
+    {
+      "name": "borracha",
+      "price": 8.33,
+      "id": 5
+    }
+  ]
+}
